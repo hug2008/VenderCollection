@@ -24,7 +24,8 @@
 ####UIView 
 + [FXBlurView](https://github.com/nicklockwood/FXBlurView.git) UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
 
-####UITableViewCell
+####UITableView
++ [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet.git) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
 + [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell.git) An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 
 ####富文本
@@ -41,6 +42,7 @@
 
 ####侧边栏
 + [RESideMenu](https://github.com/romaonthego/RESideMenu.git) iOS 7/8 style side menu with parallax effect.
++ [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter.git) Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
 
 ####底边栏
 + [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController.git)  最低只需传两个数组即可完成主流App框架搭建
