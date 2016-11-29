@@ -4,54 +4,6 @@
 + [YTKNetwork](https://github.com/yuantiku/YTKNetwork.git) YTKNetwork is a high level request util based on AFNetworking.
 + [Alamofire](https://github.com/Alamofire/Alamofire.git) Elegant HTTP Networking in Swift
 
-####HUD
-+ [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD.git)  A clean and lightweight progress HUD for your iOS and tvOS app.
-+ [MBProgressHUD](https://github.com/jdg/MBProgressHUD.git)  MBProgressHUD + Customizations
-
-####照片/图片
-+ [FlyImage](https://github.com/northwind/FlyImage.git) Download, cache, render small images with UIImageView category 
-+ [YYImage](https://github.com/ibireme/YYImage.git) Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more
-+ [YYWebImage](https://github.com/ibireme/YYWebImage.git) Asynchronous image loading framework.
-+ [SDWebImage](https://github.com/rs/SDWebImage.git) Asynchronous image downloader with cache support as a UIImageView category
-+ [TZImagePickerController](https://github.com/banchichen/TZImagePickerController.git) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。
-+ [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser.git) A simple iOS photo and video browser with grid view, captions and selections.
-+ [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser.git) An easy way to browse photo(image) for iOS.
-+ [GPUImage](https://github.com/BradLarson/GPUImage.git) An open source iOS framework for GPU-based image and video processing  
-+ [FastImageCache](https://github.com/path/FastImageCache.git) iOS library for quickly displaying images while scrolling
-
-####视频
-+ [ijkplayer](https://github.com/Bilibili/ijkplayer.git)  Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
-
-####UIView 
-+ [FXBlurView](https://github.com/nicklockwood/FXBlurView.git) UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
-
-####UITableView
-+ [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet.git) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
-+ [StatefulViewController](https://github.com/aschuch/StatefulViewController.git) Placeholder views based on content, loading, error or empty states
-+ [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell.git) An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
-
-####UICollectionView
-+ [CollectionView](https://github.com/chenyufeng1991/CollectionView.git) 这里我在iOS中使用三种不同的方式实现UICollectionView，也就是一种瀑布流视图。分别使用storyboard、nib和纯代码的方式来实现。
-
-####富文本
-+ [YYText](https://github.com/ibireme/YYText.git) Powerful text framework for iOS to display and edit rich text.
-+ [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel.git) A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
-
-####动画
-+ [pop](https://github.com/facebook/pop.git) An extensible iOS and OS X animation library, useful for physics-based interactions.
-+ [Spring](https://github.com/MengTo/Spring.git)  A library to simplify iOS animations in Swift. 
-+ [Shimmer](https://github.com/facebook/Shimmer.git)  An easy way to add a simple, shimmering effect to any view in an iOS app.
-
-####分栏
-+ [VTMagic](https://github.com/tianzhuo112/VTMagic.git) VTMagic is a page container library for iOS.网易新闻分类
-
-####侧边栏
-+ [RESideMenu](https://github.com/romaonthego/RESideMenu.git) iOS 7/8 style side menu with parallax effect.
-+ [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter.git) Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
-
-####底边栏
-+ [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController.git)  最低只需传两个数组即可完成主流App框架搭建
-
 ####自适应
 + [SDAutoLayout](https://github.com/gsdios/SDAutoLayout.git)  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。
 + [Masonry](https://github.com/SnapKit/Masonry.git) Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
@@ -66,6 +18,76 @@
 ####Json & Model
 + [MJExtension](https://github.com/CoderMJLee/MJExtension.git) A fast, convenient and nonintrusive conversion between JSON and model. Your model class don't need to extend another base class. You don't need to modify any model file.
 + [YYModel](https://github.com/ibireme/YYModel.git) High performance model framework for iOS/OSX.
++ [JsonToDictionary](https://github.com/oscarvgg/JsonToDictionary.git) An easier way to read json and covert it to NSDictionary, and viceversa.
+
+####HUD
++ [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD.git)  A clean and lightweight progress HUD for your iOS and tvOS app.
++ [MBProgressHUD](https://github.com/jdg/MBProgressHUD.git)  MBProgressHUD + Customizations
+
+####Alert提示框
++ [MMPopupView](https://github.com/adad184/MMPopupView.git) Pop-up based view(e.g. alert sheet), can easily customize.
++ [CRToast](https://github.com/cruffenach/CRToast.git) A modern iOS toast view that can fit your notification needs
++ [Toast](https://github.com/scalessec/Toast.git) An Objective-C category that adds toast notifications to the UIView object class.
+
+####照片/图片
++ [FlyImage](https://github.com/northwind/FlyImage.git) Download, cache, render small images with UIImageView category 
++ [YYImage](https://github.com/ibireme/YYImage.git) Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more
++ [YYWebImage](https://github.com/ibireme/YYWebImage.git) Asynchronous image loading framework.
++ [SDWebImage](https://github.com/rs/SDWebImage.git) Asynchronous image downloader with cache support as a UIImageView category
++ [TZImagePickerController](https://github.com/banchichen/TZImagePickerController.git) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。
++ [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser.git) A simple iOS photo and video browser with grid view, captions and selections.
++ [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser.git) An easy way to browse photo(image) for iOS.
++ [GPUImage](https://github.com/BradLarson/GPUImage.git) An open source iOS framework for GPU-based image and video processing  
++ [FastImageCache](https://github.com/path/FastImageCache.git) iOS library for quickly displaying images while scrolling
++ [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper.git) An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.图片剪切
+
+####视频
++ [ijkplayer](https://github.com/Bilibili/ijkplayer.git)  Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
+
+####UIView 
++ [FXBlurView](https://github.com/nicklockwood/FXBlurView.git) UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
++ [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView.git) Simple star rating view for iOS written in Objective-C评分星星
++ [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView.git) PPDragDropBadgeView is a badge view which able to drag and drop. Just like QQ 5.0 badge view.类似QQ未读消息的可拖拽小红点
+
+####UITableView
++ [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet.git) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
++ [StatefulViewController](https://github.com/aschuch/StatefulViewController.git) Placeholder views based on content, loading, error or empty states
++ [GzwTableViewLoading](https://github.com/q351941406/GzwTableViewLoading.git) 这是一个UITableView的分类，一行代码解决加载数据中状态和没有数据下的状态
++ [CHDDropDownMenu](https://github.com/donggelaile/CHDDropDownMenu.git)
++ [CLTreeView-IOS-ContactsList](https://github.com/flywarrior/CLTreeView-IOS-ContactsList.git) CLTreeView是一个多级的联系人列表，它可以做出和QQ2014的二级联系人列表相似的二级列表，也可以做出美观的三级联系人列表。如果你愿意，它也可以做出二级和三级混合的联系人列表
++ [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView.git) 可展开型预览TableView. a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy
++ UITableViewCell 
+  - [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell.git) An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
+  - [ABMenuTableViewCell](https://github.com/alexbumbu/ABMenuTableViewCell.git) Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.
+
+####UICollectionView
++ [CollectionView](https://github.com/chenyufeng1991/CollectionView.git) 这里我在iOS中使用三种不同的方式实现UICollectionView，也就是一种瀑布流视图。分别使用storyboard、nib和纯代码的方式来实现。
++ [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu.git) CollectionView做的两级菜单，可以折叠第二级菜单
+
+####富文本
++ [YYText](https://github.com/ibireme/YYText.git) Powerful text framework for iOS to display and edit rich text.
++ [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel.git) A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
++ [TYAttributedLabel](https://github.com/12207480/TYAttributedLabel.git) TYAttributedLabel 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示
+
+####动画
++ [pop](https://github.com/facebook/pop.git) An extensible iOS and OS X animation library, useful for physics-based interactions.
++ [Spring](https://github.com/MengTo/Spring.git)  A library to simplify iOS animations in Swift. 
++ [Shimmer](https://github.com/facebook/Shimmer.git)  An easy way to add a simple, shimmering effect to any view in an iOS app.
++ [BHBPopView](https://github.com/bb-coder/BHBPopView.git) 仿新浪微博客户端“加号”按钮弹出动画
+
+####分栏
++ [VTMagic](https://github.com/tianzhuo112/VTMagic.git) VTMagic is a page container library for iOS.网易新闻分类
++ [ZTPageController](https://github.com/wuzhentao/ZTPageController.git) 模仿网易新闻和其他新闻样式做的一个菜单栏，栏中有各自的控制器。 不建议用VC做展示，具体可以参考我最近写的
+
+####侧边栏
++ [RESideMenu](https://github.com/romaonthego/RESideMenu.git) iOS 7/8 style side menu with parallax effect.
++ [ZYSideSlipFilter](https://github.com/liuzhiyi1992/ZYSideSlipFilter.git) Awesome side slip filter for your display rack, 侧边栏条件筛选器，筛选区域模块插拔，AutoLayout动态适配区域高度
+
+####底边栏
++ [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController.git)  最低只需传两个数组即可完成主流App框架搭建
+
+####导航栏
++ [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture.git) A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.全屏滑动返回
 
 ####表格／折线图
 + [PNChart](https://github.com/kevinzhow/PNChart.git) A simple and beautiful chart lib used in Piner and CoinsMan for iOS
@@ -85,6 +107,7 @@
 
 ####类目Category
 + [YYCategories](https://github.com/ibireme/YYCategories.git) A set of useful categories for Foundation and UIKit.
++ [JKCategories](https://github.com/shaojiankui/JKCategories.git) JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.
 
 ####Debug & Log
 + [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack.git) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
