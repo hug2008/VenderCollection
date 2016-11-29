@@ -29,6 +29,9 @@
 + [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet.git) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
 + [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell.git) An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 
+####UICollectionView
++ [CollectionView](https://github.com/chenyufeng1991/CollectionView.git) 这里我在iOS中使用三种不同的方式实现UICollectionView，也就是一种瀑布流视图。分别使用storyboard、nib和纯代码的方式来实现。
+
 ####富文本
 + [YYText](https://github.com/ibireme/YYText.git) Powerful text framework for iOS to display and edit rich text.
 + [TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel.git) A drop-in replacement for UILabel that supports attributes, data detectors, links, and more
@@ -86,6 +89,9 @@
 + [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack.git) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 + [PonyDebugger](https://github.com/square/PonyDebugger.git)  Remote network and data debugging for your native iOS app using Chrome Developer Tools
 + [Log](https://github.com/delba/Log.git) An extensible logging framework for Swift
+
+####IDEA
++ [SimulateIDFA](https://github.com/youmi/SimulateIDFA.git) SimulateIDFA: iOS10 IDFA AD tracking limit solution
 
 ####服务器
 + [Perfect](https://github.com/PerfectlySoft/Perfect.git) Server-side Swift. The Perfect library, application server, connectors and example apps. 
