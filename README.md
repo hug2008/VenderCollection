@@ -27,6 +27,7 @@
 
 ####UITableView
 + [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet.git) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
++ [StatefulViewController](https://github.com/aschuch/StatefulViewController.git) Placeholder views based on content, loading, error or empty states
 + [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell.git) An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 
 ####UICollectionView
