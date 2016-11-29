@@ -15,6 +15,7 @@
 + [SDWebImage](https://github.com/rs/SDWebImage.git) Asynchronous image downloader with cache support as a UIImageView category
 + [TZImagePickerController](https://github.com/banchichen/TZImagePickerController.git) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。
 + [MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser.git) A simple iOS photo and video browser with grid view, captions and selections.
++ [PYPhotoBrowser](https://github.com/iphone5solo/PYPhotoBrowser.git) An easy way to browse photo(image) for iOS.
 + [GPUImage](https://github.com/BradLarson/GPUImage.git) An open source iOS framework for GPU-based image and video processing  
 + [FastImageCache](https://github.com/path/FastImageCache.git) iOS library for quickly displaying images while scrolling
 
