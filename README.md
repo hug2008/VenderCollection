@@ -40,6 +40,7 @@
 + [GPUImage](https://github.com/BradLarson/GPUImage.git) An open source iOS framework for GPU-based image and video processing  
 + [FastImageCache](https://github.com/path/FastImageCache.git) iOS library for quickly displaying images while scrolling
 + [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper.git) An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.图片剪切
++ [YQImageTool](https://github.com/976431yang/YQImageTool.git) 简易图片处理工具：圆角、缩略图、水印、裁剪、根据遮罩图形状裁剪、阴影、旋转、渲染UIView成图片
 
 ####视频
 + [ijkplayer](https://github.com/Bilibili/ijkplayer.git)  Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
