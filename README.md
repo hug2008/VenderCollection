@@ -24,11 +24,6 @@
 + [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD.git)  A clean and lightweight progress HUD for your iOS and tvOS app.
 + [MBProgressHUD](https://github.com/jdg/MBProgressHUD.git)  MBProgressHUD + Customizations
 
-####Alert提示框
-+ [MMPopupView](https://github.com/adad184/MMPopupView.git) Pop-up based view(e.g. alert sheet), can easily customize.
-+ [CRToast](https://github.com/cruffenach/CRToast.git) A modern iOS toast view that can fit your notification needs
-+ [Toast](https://github.com/scalessec/Toast.git) An Objective-C category that adds toast notifications to the UIView object class.
-
 ####照片/图片
 + [FlyImage](https://github.com/northwind/FlyImage.git) Download, cache, render small images with UIImageView category 
 + [YYImage](https://github.com/ibireme/YYImage.git) Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more
@@ -44,6 +39,9 @@
 
 ####视频
 + [ijkplayer](https://github.com/Bilibili/ijkplayer.git)  Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
+
+####声音
++ [EZAudio](https://github.com/syedhali/EZAudio.git) An iOS and OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
 
 ####UIView 
 + [FXBlurView](https://github.com/nicklockwood/FXBlurView.git) UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
