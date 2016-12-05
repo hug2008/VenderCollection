@@ -47,20 +47,25 @@
 + [FXBlurView](https://github.com/nicklockwood/FXBlurView.git) UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
 + [HCSStarRatingView](https://github.com/hsousa/HCSStarRatingView.git) Simple star rating view for iOS written in Objective-C评分星星
 + [PPDragDropBadgeView](https://github.com/smallmuou/PPDragDropBadgeView.git) PPDragDropBadgeView is a badge view which able to drag and drop. Just like QQ 5.0 badge view.类似QQ未读消息的可拖拽小红点
-+ 表单
-  - [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField.git) UITextField subclass with floating labels - inspired by Matt D. 
-+ UITableView
-  - [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet.git) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
-  - [StatefulViewController](https://github.com/aschuch/StatefulViewController.git) Placeholder views based on content, loading, error or empty states
-  - [GzwTableViewLoading](https://github.com/q351941406/GzwTableViewLoading.git) 这是一个UITableView的分类，一行代码解决加载数据中状态和没有数据下的状态
-  - [CHDDropDownMenu](https://github.com/donggelaile/CHDDropDownMenu.git)
-  - [CLTreeView-IOS-ContactsList](https://github.com/flywarrior/CLTreeView-IOS-ContactsList.git) CLTreeView是一个多级的联系人列表，它可以做出和QQ2014的二级联系人列表相似的二级列表，也可以做出美观的三级联系人列表。如果你愿意，它也可以做出二级和三级混合的联系人列表
-  - [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView.git) 可展开型预览TableView. a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy
-+ UITableViewCell 
-  - [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell.git) An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
-  - [ABMenuTableViewCell](https://github.com/alexbumbu/ABMenuTableViewCell.git) Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.
-+ UICollectionView
-  - [CollectionView](https://github.com/chenyufeng1991/CollectionView.git) 这里我在iOS中使用三种不同的方式实现UICollectionView，也就是一种瀑布流视图。分别使用storyboard、nib和纯代码的方式来实现。
++ [CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS.git) 银行卡视图CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.
+
+####表单
++ [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField.git) UITextField subclass with floating labels - inspired by Matt D.
+
+####UITableView
++ [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet.git) A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
++ [StatefulViewController](https://github.com/aschuch/StatefulViewController.git) Placeholder views based on content, loading, error or empty states
++ [GzwTableViewLoading](https://github.com/q351941406/GzwTableViewLoading.git) 这是一个UITableView的分类，一行代码解决加载数据中状态和没有数据下的状态
++ [CHDDropDownMenu](https://github.com/donggelaile/CHDDropDownMenu.git)
++ [CLTreeView-IOS-ContactsList](https://github.com/flywarrior/CLTreeView-IOS-ContactsList.git) CLTreeView是一个多级的联系人列表，它可以做出和QQ2014的二级联系人列表相似的二级列表，也可以做出美观的三级联系人列表。如果你愿意，它也可以做出二级和三级混合的联系人列表
++ [ZYThumbnailTableView](https://github.com/liuzhiyi1992/ZYThumbnailTableView.git) 可展开型预览TableView. a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy
+
+####UITableViewCell 
++ [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell.git) An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
++ [ABMenuTableViewCell](https://github.com/alexbumbu/ABMenuTableViewCell.git) Highly customizable, yet simple to use, solution for UITableViewCell right menu, shown by ''swipe to delete' gesture.
+
+####UICollectionView
++ [CollectionView](https://github.com/chenyufeng1991/CollectionView.git) 这里我在iOS中使用三种不同的方式实现UICollectionView，也就是一种瀑布流视图。分别使用storyboard、nib和纯代码的方式来实现。
   - [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu.git) CollectionView做的两级菜单，可以折叠第二级菜单
 
 ####富文本
@@ -143,6 +148,7 @@
 ####资源集合
 + [SwiftGuide](https://github.com/ipader/SwiftGuide.git) 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
 + [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS.git) iOS开发常用三方库、插件、知名博客等等
++ [gold-miner](https://github.com/xitu/gold-miner.git) 掘金翻译计划，翻译掘金上优质的英文文章
 
 ####辅助工具
 + [WHC_DataModelFactory](https://github.com/netyouli/WHC_DataModelFactory.git) Mac上iOS开发辅助工具，快速把json/xml数据转换生成对应模型类属性，省去麻烦手动创建，提高开发效率。
