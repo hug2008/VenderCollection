@@ -66,7 +66,7 @@
 
 ####UICollectionView
 + [CollectionView](https://github.com/chenyufeng1991/CollectionView.git) 这里我在iOS中使用三种不同的方式实现UICollectionView，也就是一种瀑布流视图。分别使用storyboard、nib和纯代码的方式来实现。
-  - [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu.git) CollectionView做的两级菜单，可以折叠第二级菜单
++ [CollectionViewClassifyMenu](https://github.com/ChenYilong/CollectionViewClassifyMenu.git) CollectionView做的两级菜单，可以折叠第二级菜单
 
 ####富文本
 + [YYText](https://github.com/ibireme/YYText.git) Powerful text framework for iOS to display and edit rich text.
