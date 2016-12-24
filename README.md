@@ -82,6 +82,7 @@
 ####分栏
 + [VTMagic](https://github.com/tianzhuo112/VTMagic.git) VTMagic is a page container library for iOS.网易新闻分类
 + [ZTPageController](https://github.com/wuzhentao/ZTPageController.git) 模仿网易新闻和其他新闻样式做的一个菜单栏，栏中有各自的控制器。 不建议用VC做展示，具体可以参考我最近写的
++ [YUSegment](https://github.com/afishhhhh/YUSegment.git) A customizable Segmented Control for iOS. Supports text and image.
 
 ####侧边栏
 + [RESideMenu](https://github.com/romaonthego/RESideMenu.git) iOS 7/8 style side menu with parallax effect.
