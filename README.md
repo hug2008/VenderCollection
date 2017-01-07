@@ -39,6 +39,7 @@
 + [RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper.git) An image cropper / photo cropper for iOS like in the Contacts app with support for landscape orientation.图片剪切
 + [YQImageTool](https://github.com/976431yang/YQImageTool.git) 简易图片处理工具：圆角、缩略图、水印、裁剪、根据遮罩图形状裁剪、阴影、旋转、渲染UIView成图片
 + [YLGIFImage](https://github.com/liyong03/YLGIFImage.git) Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
++ [PINRemoteImage](https://github.com/pinterest/PINRemoteImage.git) A thread safe, performant, feature rich image fetcher
 
 ####视频
 + [ijkplayer](https://github.com/Bilibili/ijkplayer.git)  Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
@@ -124,6 +125,11 @@
 + [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture.git) A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.全屏滑动返回
 + [CoolNavi](https://github.com/ianisme/CoolNavi.git) A cool UINavigationbar
 
+####Alert
++ [MMPopupView](https://github.com/adad184/MMPopupView.git) Pop-up based view(e.g. alert sheet), can easily customize.
++ [SCLAlertView](https://github.com/dogo/SCLAlertView.git) Beautiful animated Alert View. Written in Objective-C
++ [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert.git) iOS / Objective C: an extremely simple UIAlertView alternative
+
 ####表格／折线图
 + [PNChart](https://github.com/kevinzhow/PNChart.git) A simple and beautiful chart lib used in Piner and CoinsMan for iOS
 
@@ -146,6 +152,7 @@
 ####热修复
 + [JSPatch](https://github.com/bang590/JSPatch.git) JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.
 + [DynamicCocoa](https://github.com/DynamicCocoa/DynamicCocoa.git) A framework for running Cocoa code dynamically.
++ [LuaViewSDK](https://github.com/alibaba/LuaViewSDK.git) LuaView 是一种运行在一个 ViewController/Activity 中，可以灵活加载Lua 脚本，并能够按照 Native 的方式运行的一种面向业务的开发技术方案。可以快速开发电商应用中既要求体验又要求灵活性的页面功能，例如首页，类目首页，垂直频道，大促活动会场等。
 
 ####类目Category
 + [YYCategories](https://github.com/ibireme/YYCategories.git) A set of useful categories for Foundation and UIKit.
