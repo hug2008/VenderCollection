@@ -114,6 +114,7 @@
 + [VTMagic](https://github.com/tianzhuo112/VTMagic.git) VTMagic is a page container library for iOS.网易新闻分类
 + [ZTPageController](https://github.com/wuzhentao/ZTPageController.git) 模仿网易新闻和其他新闻样式做的一个菜单栏，栏中有各自的控制器。 不建议用VC做展示，具体可以参考我最近写的
 + [YUSegment](https://github.com/afishhhhh/YUSegment.git) A customizable Segmented Control for iOS. Supports text and image.
++ [WDScrollableSegmentedControl](https://github.com/Wildog/WDScrollableSegmentedControl.git) Minimal segmented control, scrollable, customizable, animatable, easy as hell to use.
 
 ####侧边栏
 + [RESideMenu](https://github.com/romaonthego/RESideMenu.git) iOS 7/8 style side menu with parallax effect.
@@ -170,6 +171,7 @@
 + [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack.git) A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 + [PonyDebugger](https://github.com/square/PonyDebugger.git)  Remote network and data debugging for your native iOS app using Chrome Developer Tools
 + [Log](https://github.com/delba/Log.git) An extensible logging framework for Swift
++ [JustLog](https://github.com/justeat/JustLog.git) JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.
 
 ####服务器
 + [Perfect](https://github.com/PerfectlySoft/Perfect.git) Server-side Swift. The Perfect library, application server, connectors and example apps.
