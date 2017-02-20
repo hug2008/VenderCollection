@@ -57,6 +57,7 @@
 
 ####动画
 + [pop](https://github.com/facebook/pop.git) An extensible iOS and OS X animation library, useful for physics-based interactions.
++ [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations.git) Easy to read and write chainable animations in Objective-C and Swift
 + [Spring](https://github.com/MengTo/Spring.git)  A library to simplify iOS animations in Swift.
 + [Shimmer](https://github.com/facebook/Shimmer.git)  An easy way to add a simple, shimmering effect to any view in an iOS app.
 + [BHBPopView](https://github.com/bb-coder/BHBPopView.git) 仿新浪微博客户端“加号”按钮弹出动画
