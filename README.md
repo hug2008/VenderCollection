@@ -227,6 +227,7 @@
 + [Perfect](https://github.com/PerfectlySoft/Perfect.git) Server-side Swift. The Perfect library, application server, connectors and example apps.
 + [vapor](https://github.com/vapor/vapor.git) A web framework and server for Swift that works on macOS and Ubuntu.
 + [Kitura](https://github.com/IBM-Swift/Kitura.git) A Swift web framework and HTTP server
++ [GCDWebServer](https://github.com/swisspol/GCDWebServer) Lightweight GCD based HTTP server for OS X & iOS (includes web based uploader & WebDAV server)
 
 <h4 id="title_demo">Demo</h4>
 + [ChatKit-OC](https://github.com/leancloud/ChatKit-OC.git) An IM App UI Framework, support sending text, pictures, audio, video, location messaging, managing address book, more interesting features. Server is available Both in China and US.
