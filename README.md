@@ -122,6 +122,7 @@
 + [FDStackView](https://github.com/forkingdog/FDStackView.git) Use UIStackView directly in iOS6+
 + [PYSearch](https://github.com/iphone5solo/PYSearch.git)搜索框 An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad) .
 + [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView.git) Autoscroll Banner. 无限循环图片、文字轮播器。
++ [LazyScrollView](https://github.com/alibaba/LazyScrollView.git) 天猫首页视图复用解决方案An iOS ScrollView to resolve the problem of reusability in views.
 
 <h4 id="title_textfield">表单</h4>
 + [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField.git) UITextField subclass with floating labels - inspired by Matt D.
