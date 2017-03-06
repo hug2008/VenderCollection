@@ -152,6 +152,7 @@
 + [FJTagCollectionLayout](https://github.com/nibaJin/FJTagCollectionLayout.git) 标签规则布局（居左 居中 居右）
 + [DWTagList](https://github.com/domness/DWTagList.git) Create a list of tags from an NSArray to be show in a view with customisable fonts, colors etc.
 + [JCTagListView](https://github.com/lijingcheng/JCTagListView.git) Support delete tags and settings tags color.
++ [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout.git) A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.
 
 <h4 id="title_chatUI">聊天界面</h4>
 + [PonyChatUIV2](https://github.com/PonyGroup/PonyChatUIV2.git) PonyChatUI is an easy to use Chatting Flow UI Library. It constructed on AsyncDisplayKit and WeChat Resource. You will find it really like WeChat.
