@@ -366,7 +366,7 @@
 
 + [Reader](https://github.com/vfr/Reader.git) PDF阅读
 
-+ [iOS-PDF-Reader](An open source (BSD) iPhone & iPad PDF Reader
++ [iOS-PDF-Reader](https://github.com/schwa/iOS-PDF-Reader.git) An open source iPhone & iPad PDF Reader
 
 <h4 id="title_online">上线APP Store</h4>
 
