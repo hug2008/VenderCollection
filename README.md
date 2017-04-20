@@ -33,6 +33,7 @@
 * [Category@](#title_category)
 * [其他@](#title_other)
 * [Debug&Log@](#title_log)
+* [内存监测](#title_leaks)
 * [服务器@](#title_service)
 * [Demo@](#title_demo)
 * [开源项目@](#title_openProject)
@@ -340,6 +341,12 @@
 + [Log](https://github.com/delba/Log.git) An extensible logging framework for Swift
 
 + [JustLog](https://github.com/justeat/JustLog.git) JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.
+
+<h4 id="title_leaks">内存监测</h4>
+
++ [MLeaksFinder](https://github.com/Zepo/MLeaksFinder.git) Find memory leaks in your iOS app at develop time. 检测内存泄漏
+
++ [PLeakSniffer](https://github.com/music4kid/PLeakSniffer.git) Detect memory leaks for your iOS project automatically. http://mrpeak.cn
 
 <h4 id="title_service">服务器</h4>
 
