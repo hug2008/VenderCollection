@@ -305,6 +305,7 @@
 
 + [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge.git)  An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews  
 
++ [NJKWebViewProgress](https://github.com/ninjinkun/NJKWebViewProgress.git) UIWebView progress interface
 
 <h4 id="title_hotfix">热修复</h4>
 
