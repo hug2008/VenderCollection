@@ -59,6 +59,8 @@ swift
 
 ####分栏View
 
+[PageMenu](https://github.com/PageMenu/PageMenu.git) A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
+
 [Segmentio](https://github.com/Yalantis/Segmentio.git) Animated top/bottom segmented control written in Swift
 
 [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl.git) Custom UISegmentedControl replacement for iOS, written in Swift
