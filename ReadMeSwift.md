@@ -45,6 +45,10 @@ swift
 
 [AudioKit](https://github.com/audiokit/AudioKit.git) Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS 
 
+####二维码
+
+[EFQRCode](https://github.com/EyreFree/EFQRCode.git) A better way to operate quick response code in Swift
+
 ####布局layout
 
 [SnapKit](https://github.com/SnapKit/SnapKit) A Swift Autolayout DSL for iOS & OS X 
