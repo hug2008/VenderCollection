@@ -37,6 +37,15 @@ swift
 
 [realm-swift](https://realm.io/docs/swift/latest/) realm swift版
 
+####加密
+
+[CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift.git) CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+
+####KVO
+
+[Observable-Swift](https://github.com/slazyk/Observable-Swift.git) KVO for Swift - Value Observing and Events
+
+
 ####Category 
 
 [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift.git) A handy collection of more than 500 native Swift 3 extensions to boost your productivity.
